@@ -18,7 +18,6 @@ interface HomeProps {
 }
 
 export default function Home(props) {
-  console.log(props);
 
   return (
     <ChallengesProvider
@@ -52,7 +51,6 @@ export default function Home(props) {
 }
 
 export const getServerSideProps: GetServerSideProps = async (ctx) => { //essa parte roda no node
-  console.log('AI');
 
   const { level, currentExperience, challengesCompleted } = ctx.req.cookies;
   return {
