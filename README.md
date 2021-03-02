@@ -1,55 +1,59 @@
 <h1 align="center">Move it</h1>
 
-<p align="center">Esse projeto tem como objetivo a cada fim de um ciclo, o usuário deverá realizar um desafio para poder ganhar experiência e subir de level.</p>
+<p align="center">This project aims at each end of a cycle, the user must perform a challenge in order to gain experience and level up.</p>
 
-## Pré requisitos:
+# Getting Started
 
-Antes de começar, você precisará ter instalado na sua máquina as seguintes ferramentas:
+Before you begin, you will need to have the following tools:
 
 [Git] [Node.js] [VsCODE]
 <br><br/>
 
-## Clone este repositório na sua máquina
+Clone this repository
 
-$ git clone git@github.com:matheusolih/move-it-next-matheus.git
-<br><br/>
-
-## Acesse a pasta do projeto no terminal
-
-$ cd/move-it-next-matheus
-<br><br/>
-
-## Utilizando NPM
-
-### Instale as dependências utilizando o npm
-
-$ npm install
-<br><br/>
-
-### Execute o projeto em modo de desenvolvimento
-
-$ npm run dev
-<br><br/>
-
-## Utilizando yarn
-
-### Instale as dependências utilizando yarn
-
-$ yarn install
-<br><br/>
-
-### Execute o projeto em modo de desenvolvimento:
-
-$ yarn dev
-<br><br/>
-
-### Acesse no browser na porta 3000 (padrão)
+### `git clone git@github.com:matheusolih/move-it-next-matheus.git`
 
 <br><br/>
 
-### Tecnologias
+Access the project folder in the terminal
 
-## As seguintes ferramentas foram utilizadas na construção do projeto:
+### `cd/move-it-next-matheus`
+
+<br><br/>
+
+## Using NPM
+
+Install the dependencies
+
+### `npm install`
+
+<br><br/>
+
+Run the app in the development mode
+
+### `npm run dev`
+
+<br><br/>
+
+## Using yarn
+
+Install the dependencies
+
+### `yarn install`
+
+<br><br/>
+
+Run the app in the development mode
+
+### `yarn dev`
+
+<br><br/>
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+<br><br/>
+
+## The following tools were used in the development of the project.
 
 - [React](https://pt-br.reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
